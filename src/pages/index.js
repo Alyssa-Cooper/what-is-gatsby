@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hellow World!</h1>
+    <h1>Hello World!</h1>
     <p>I'm working with Gatsby!</p>
     <p>Gatsby is incredibly cool.</p>
     <Link to="/page-2/">Go to page 2</Link>
